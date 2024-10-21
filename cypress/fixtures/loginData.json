@@ -1,0 +1,14 @@
+{
+    "validUser": {
+      "email": "amrhitzz@gmail.com",
+      "password": "NicAsia#123"
+    },
+    "invalidUser": {
+      "email": "invalid@gmail.com",
+      "password": "InvalidPassword123"
+    },
+    "emptyFields": {
+      "email": "",
+      "password": ""
+    }
+  }
